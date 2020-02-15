@@ -1,0 +1,5 @@
+C:\Users\usuario\source\repos\ApiREST\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\usuario\source\repos\ApiREST\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\usuario\source\repos\ApiREST\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\usuario\source\repos\ApiREST\obj\Debug\netcoreapp2.1\ApiREST.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\ApiREST\obj\Debug\netcoreapp2.1\ApiREST.AssemblyInfo.cs
